@@ -2,8 +2,6 @@
 
 All API link : https://moonknight-backend.vercel.app/
 
-Github Link : https://github.com/ocircleo/moonknight_backend
-
 Tech stack used : Node JS, Express js, MongoDB.
 
 
